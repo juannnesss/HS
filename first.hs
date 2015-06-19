@@ -1,1 +1,1 @@
-putStr "Hola, mundo"
+main=putStr "Hola, mundo\n"
